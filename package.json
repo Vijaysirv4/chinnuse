@@ -1,14 +1,14 @@
 {
-  "name": "Raganork",
+  "name": "chinnuse",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
-  "main": "./Raganork/bot.js",
+  "description": "chinnuse whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "main": "./chinnuse/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/Vijaysirv4/chinnuse.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,14 +18,14 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "chinnuse / @vijaysir",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/Vijaysirv4/chinnuse/issues"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/Vijaysirv4/chinnuse#readme",
   "dependencies": {
-    "raganork-bot": "1.5.4",
+    "chinnuse-bot": "1.5.4",
     "sharp": "0.29.2"
   }
 }
